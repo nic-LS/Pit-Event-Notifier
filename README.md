@@ -3,7 +3,7 @@
 A lightweight desktop app that tracks upcoming Hypixel **Pit** events and sends
 you a desktop notification before they start.
 
-Event data is pulled periodically from a public event feed and shown in a
+Event data is pulled periodically from the [`BrookeAFK`](https://brookeafk.com/) event feed and shown in a
 sortable list, with optional desktop notifications for events you care about.
 
 ## Features
